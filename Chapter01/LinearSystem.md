@@ -8,10 +8,10 @@
 
 1. Persevering Multiplication（均匀性/齐次性）
     * $ \triangle \to \mbox{Linear System} \to \Box \Rightarrow  k\triangle \to \mbox{Linear System} \to k\Box $
-    * $ \begin{bmatrix}1\\ 2\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix} \Rightarrow  k\begin{bmatrix}1\\2\end{bmatrix} \to \mbox{Linear System} \to k\begin{bmatrix}3\\ 4\\5\end{bmatrix} $
+    * $ \begin{bmatrix}1\\ 2\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix} \Rightarrow  k\begin{bmatrix}1\\ 2\end{bmatrix} \to \mbox{Linear System} \to k\begin{bmatrix}3\\ 4\\ 5\end{bmatrix} $
 2. Persevering Addition（叠加性）
     * $ \begin{matrix}\triangle \to \mbox{Linear System} \to \Box\\ \diamondsuit \to \mbox{Linear System} \to \heartsuit \end{matrix}  \Rightarrow  \triangle+\diamondsuit \to \mbox{Linear System} \to \Box+\heartsuit $
-    * $ \begin{matrix}\begin{bmatrix}1\\ 2\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix}\\\begin{bmatrix}5\\6\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}7\\ 8\\ 9\end{bmatrix}\end{matrix} \Rightarrow  \begin{bmatrix}1\\2\end{bmatrix}+\begin{bmatrix}5\\ 6\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix}+\begin{bmatrix}7\\ 8\\ 9\end{bmatrix} $
+    * $ \begin{matrix}\begin{bmatrix}1\\ 2\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix}\\\begin{bmatrix}5\\ 6\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}7\\ 8\\ 9\end{bmatrix}\end{matrix} \Rightarrow  \begin{bmatrix}1\\ 2\end{bmatrix}+\begin{bmatrix}5\\ 6\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}3\\ 4\\ 5\end{bmatrix}+\begin{bmatrix}7\\ 8\\ 9\end{bmatrix} $
 
 ### Examples
 
