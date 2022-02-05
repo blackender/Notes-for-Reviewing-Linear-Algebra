@@ -16,7 +16,7 @@
 ### Examples
 
 #### Ex1. $ x \to \mbox{S} \to x^2 $中，S是不是linear system？
-1. $ kx \to \mbox{S} \to (kx)^2=k^2x^2 $
+1. $ kx \to \mbox{S} \to (kx)^2=k^2x^2 \ne kx^2 $
     * 不满足Persevering Multiplication
 2. $ x_1 + x_2 \to \mbox{S} \to (x_1 + x_2)^2 \ne {x_1}^2 + {x_2}^2 $
     * 不满足Persevering Addition
