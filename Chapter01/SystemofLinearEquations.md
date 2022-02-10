@@ -40,6 +40,7 @@ $$\Downarrow$$
 $x_1 \begin{bmatrix}1 \\ 0 \\\dots \\ 0\end{bmatrix} =\begin{bmatrix}x_1 \\ 0 \\\dots \\ 0\end{bmatrix} \to \mbox{Linear System} \to x_1 \begin{bmatrix}a_{11} \\ a_{21} \\ \dots \\ a_{m1}\end{bmatrix}=\begin{bmatrix}a_{11}x_1 \\ a_{21}x_1 \\ \dots \\ a_{m1}x_1\end{bmatrix}$
 
 $x_2 \begin{bmatrix}0 \\ 1 \\\dots \\ 0\end{bmatrix} =\begin{bmatrix}0 \\ x_2 \\ \dots \\ 0\end{bmatrix} \to \mbox{Linear System} \to x_2 \begin{bmatrix}a_{12} \\ a_{22} \\ \dots \\ a_{m2}\end{bmatrix}=\begin{bmatrix}a_{12}x_2 \\ a_{22}x_2 \\ \dots \\ a_{m2}x_2\end{bmatrix}$
+
 $\dots$
 
 $x_n \begin{bmatrix}0 \\ 0 \\ \dots \\ 1\end{bmatrix} =\begin{bmatrix}0 \\ 0 \\ \dots \\ x_n\end{bmatrix} \to \mbox{Linear System} \to x_n \begin{bmatrix}a_{1n} \\ a_{2n} \\ \dots \\ a_{mn}\end{bmatrix}= \begin{bmatrix}a_{1n}x_n \\ a_{2n}x_n \\ \dots \\ a_{mn}x_n\end{bmatrix}$
