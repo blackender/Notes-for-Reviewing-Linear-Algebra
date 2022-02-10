@@ -6,4 +6,5 @@
 2. [Chapter 01](Chapter01)
     1. [Linear System](Chapter01/LinearSystem.md)
     1. [Vector](Chapter01/Vector.md)
-    1. [System of Linear Equations](Chapter01/System of Linear Equations.md)
+    1. [System of Linear Equations](Chapter01/SystemofLinearEquations.md)
+
