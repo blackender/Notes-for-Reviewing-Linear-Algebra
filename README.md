@@ -8,4 +8,5 @@
     1. [Vector](Chapter01/Vector.md)
     1. [System of Linear Equations](Chapter01/SystemofLinearEquations.md)
     1. [Matrix](Chapter01/Matrix.md)
+    1. [Some Special Matrice](Chapter01/SomeSpecialMatrice.md)
 
