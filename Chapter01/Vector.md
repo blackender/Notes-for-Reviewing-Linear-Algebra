@@ -10,9 +10,9 @@
 
 ## Vector Set(向量集)
 1. vector set是vector的集合
-eg: $\begin{Bmatrix} \begin{bmatrix} 1\\ 2\\ 3\end{bmatrix}, \begin{bmatrix}4\\ 5\\ 6\end{bmatrix}, \begin{bmatrix}7\\ 8\\ 9\end{bmatrix}\end{Bmatrix} $
+eg: $ \begin{Bmatrix} \begin{bmatrix} 1\\ 2\\ 3\end{bmatrix}, \begin{bmatrix}4\\ 5\\ 6\end{bmatrix}, \begin{bmatrix}7\\ 8\\ 9\end{bmatrix}\end{Bmatrix} $
 2. 一个vector set中可以包含无限多个vector
-eg: $L=\begin{Bmatrix} \begin{bmatrix}x_1\\ x_2\end{bmatrix}:x_1+x_2=1\end{Bmatrix} $可包含无限多$\begin{bmatrix}1\\ 0\end{bmatrix},\begin{bmatrix}0\\ 1\end{bmatrix},\begin{bmatrix}0.8\\ 0.2\end{bmatrix},\begin{bmatrix}0.2\\ 0.8\end{bmatrix},\dots$
+eg: $ L=\begin{Bmatrix} \begin{bmatrix}x_1\\ x_2\end{bmatrix}:x_1+x_2=1\end{Bmatrix} $可包含无限多$\begin{bmatrix}1\\ 0\end{bmatrix},\begin{bmatrix}0\\ 1\end{bmatrix},\begin{bmatrix}0.8\\ 0.2\end{bmatrix},\begin{bmatrix}0.2\\ 0.8\end{bmatrix},\dots$
 3. $R^n$是所有n维vector的集合
    
 ## Vector Calculation

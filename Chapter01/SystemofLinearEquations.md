@@ -12,6 +12,12 @@ $$
 \end{matrix}
 $$
 
+$$
+\begin{bmatrix}x_1 \\ x_2 \\ \dots \\ x_n\end{bmatrix} \to \mbox{Linear System} \to \begin{bmatrix}b_{1} \\ b_{2} \\ \dots \\ b_{m}\end{bmatrix}
+$$
+
+
+
 1. System of Linear Equations中有$m$个equations（方程式）
 2. System of Linear Equations中有$n$个variables（变量），即${\color{Red} {x_1, x_2, \dots, x_n}}$
 3. 每个equation对应有$n$个coefficients（系数），即$\color{Blue}{a_{i1}, a_{i2}, \dots, a_{ij}, \dots, a_{in}}$，一共有$n \times m$个系数

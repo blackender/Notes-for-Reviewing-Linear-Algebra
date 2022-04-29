@@ -11,7 +11,7 @@ $$
 
 1. 如果一个matrix有m rows和n columns（即m行n列），则称该matrix是“m by n”或者“$m \times n$”
     * 表达matrix的shape（size）时先row后column
-2. $\mathbf{\mathcal{M} } _{3 \times 2}$指所有“$m \times n$”的matrix的集合
+2. $\mathbf{\mathcal{M} } _{m \times n}$指所有“$m \times n$”的matrix的集合
 3. vector也可看做是m行1列的matrix
 
 eg:
@@ -49,7 +49,7 @@ $A=\begin{bmatrix}2 & {\color{Red} 3} & 5 \\ 3 & 1 & -1 \\ {\color{Green} {-2}} 
 eg:
 $A=\begin{bmatrix}a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \vdots & \vdots \\ a_{m1} & a_{m2} & \dots & a_{mn}\end{bmatrix}$
 
-3. 一般可以一个matrix中的每一列看做是一个vector，matrix也可以表达为一组列向量的序列
+3. 一般可以把一个matrix中的每一列看做是一个vector，matrix也可以表达为一组列向量的序列
 eg:
 $A=\begin{bmatrix}\mathbf{a_1} & \mathbf{a_2} & \dots & \mathbf{a_n} \end{bmatrix}$
 此时的$\mathbf{a_i}$不是vector中的第i个元素，而是matrix中的第i列
