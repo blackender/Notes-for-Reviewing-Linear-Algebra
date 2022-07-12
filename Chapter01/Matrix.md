@@ -19,22 +19,22 @@ eg:
     1. 该矩阵有2 rows(2行)
     2. 该矩阵有3 columns(3列)
     3. 该矩阵是$2 \times 3$(2 by 3)
-    4. 该局在属于$\mathbf{\mathcal{M} } _{2 \times 3}$
+    4. 该矩阵属于$\mathbf{\mathcal{M} } _{2 \times 3}$
 2. $\begin{bmatrix}1 & 4 \\ 2 & 5 \\ 3 & 6\end{bmatrix} \in \mathbf{\mathcal{M} } _{3 \times 2}$
     1. 该矩阵有3 rows(3行)
     2. 该矩阵有2 columns(2列)
     3. 该矩阵是$3 \times 2$(3 by 2)
-    4. 该局在属于$\mathbf{\mathcal{M} } _{3 \times 2}$
+    4. 该矩阵属于$\mathbf{\mathcal{M} } _{3 \times 2}$
 3. $\begin{bmatrix}1 & 2 & 3\end{bmatrix}  \in \mathbf{\mathcal{M} } _{1 \times 3}$
     1. 该矩阵有1 rows(3行)
     2. 该矩阵有3 columns(1列)
     3. 该矩阵是$1 \times 3$(1 by 3)
-    4. 该局在属于$\mathbf{\mathcal{M} } _{1 \times 3}$
+    4. 该矩阵属于$\mathbf{\mathcal{M} } _{1 \times 3}$
 4. $\begin{bmatrix}1 \\ 2 \\ 3\end{bmatrix}  \in \mathbf{\mathcal{M} } _{3 \times 1}$
     1. 该矩阵有3 rows(3行)
     2. 该矩阵有1 columns(1列)
     3. 该矩阵是$3 \times 1$(3 by 1)
-    4. 该局在属于$\mathbf{\mathcal{M} } _{3 \times 1}$
+    4. 该矩阵属于$\mathbf{\mathcal{M} } _{3 \times 1}$
 
 ## Matrix内部元素
 1. 一个matrix的第i行(i-th row)，第j列(j-th column)位置的元素表达为(i, j)，即the (i, j) entry of this matrix

@@ -64,11 +64,19 @@ A\mathbf{x} = \begin{bmatrix}
 \end{bmatrix}=\mathbf{\color{Green}{b}}
 $$
 
+
+
+### Relations
+
+<img src="zj.jpg" alt="转换关系" style="zoom:50%;" />
+
+
+
 ### Example
 
 
 $$
-\begin{matrix} {\color{Red}{x_1}} + {\color{Blue}{4}}{\color{Red}{x_2}} = {\color{Green}{b_1}} \\ {\color{Blue}{-3}}{\color{Red}{x_1}} + {\color{Blue}{2}}{\color{Red}{x_2}} = {\color{Green}{b_2}} \end{matrix} \Rightarrow \color{Blue}A=\begin{bmatrix} 1 & 4 \\ -3 & 2  \end{bmatrix}
+\begin{matrix} {\color{Red}{x_1}} + {\color{Blue}{4}}{\color{Red}{x_2}} = {\color{Green}{b_1}} \\ {\color{Blue}{-3}}{\color{Red}{x_1}} + {\color{Blue}{2}}{\color{Red}{x_2}} = {\color{Green}{b_2}} \end{matrix} \Rightarrow \color{Blue}{A=\begin{bmatrix} 1 & 4 \\ -3 & 2  \end{bmatrix}}
 $$
 <img src="eg2.jpg" alt="eg2" style="zoom:67%;" />
 
