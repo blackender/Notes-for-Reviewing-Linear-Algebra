@@ -26,7 +26,7 @@ $$
 
 ### Example
 
-$ A=\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix} $ $\mathbf{x}=\begin{bmatrix} 1 \\ 2 \\3 \end{bmatrix}$ $ \Rightarrow A\mathbf{x}=\begin{bmatrix} 1 \times 1+ 2\times 2 + 3 \times 3 \\ 4 \times 1 + 5 \times 2 + 6 \times 3 \end{bmatrix}=\begin{bmatrix} 14 \\ 32 \end{bmatrix}$
+$ A=\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix} $ $\mathbf{x}=\begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}$ $ \Rightarrow A\mathbf{x}=\begin{bmatrix} 1 \times 1+ 2\times 2 + 3 \times 3 \\ 4 \times 1 + 5 \times 2 + 6 \times 3 \end{bmatrix}=\begin{bmatrix} 14 \\ 32 \end{bmatrix}$
 
 ## Column Aspect
 
