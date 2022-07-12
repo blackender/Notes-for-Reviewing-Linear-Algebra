@@ -92,6 +92,8 @@ $$
 
 The number of the matrix's columns should equal the number of  the vector's rows.
 
+<img src="match.jpg" alt="match" style="zoom:47%;" />
+
 ### 特性
 
 如果$A$，$B$都是$m \times n$的matrix，$\mathbf{u}$，$\mathbf{v}$是两个$R^n$中的vector，$c$是两个scalar，则有:
@@ -122,6 +124,7 @@ $A$，$B$都是$m \times n$的matrix。如果对所有的$\mathbf{w} \in R^n$都
 
    1. $A\mathbf{e_1}=B\mathbf{e_1} \quad A\mathbf{e_2}=B\mathbf{e_2} \dots A\mathbf{e_n}=B\mathbf{e_n}$
    2. $\mathbf{a_1}=\mathbf{b_1} \quad \mathbf{a_2}=\mathbf{b_2} \dots \mathbf{a_n}=\mathbf{b_n}$
+   3. <img src="a=b.jpg" alt="a=b" style="zoom:37%;" />
 
 5. 所以可以得到$A=B$
 
