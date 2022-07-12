@@ -36,7 +36,7 @@ $ A=\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix} $ $\mathbf{x}=\begin{bmat
 
 ### Example
 
-$ A=\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix} $ $\mathbf{x}=\begin{bmatrix} 1 \\ 2 \\3 \end{bmatrix}$ $\Rightarrow A\mathbf{x}=1 \times \begin{bmatrix} 1 \\ 4\end{bmatrix} + 2 \times \begin{bmatrix} 2 \\ 5\end{bmatrix} + 3 \times \begin{bmatrix} 3 \\ 6\end{bmatrix} = \begin{bmatrix} 14 \\ 32\end{bmatrix}$
+$ A=\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix} $ $\mathbf{x}=\begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}$ $\Rightarrow A\mathbf{x}=1 \times \begin{bmatrix} 1 \\ 4\end{bmatrix} + 2 \times \begin{bmatrix} 2 \\ 5\end{bmatrix} + 3 \times \begin{bmatrix} 3 \\ 6\end{bmatrix} = \begin{bmatrix} 14 \\ 32\end{bmatrix}$
 
 
 
