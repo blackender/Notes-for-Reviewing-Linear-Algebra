@@ -51,10 +51,11 @@ Vector无处不在
 ## II. Details
 
 1. [Chapter 01](Chapter01/Chapter01.md)
-    1. [Linear System](Chapter01/LinearSystem.md)
-    2. [Vector](Chapter01/Vector.md)
-    3. [System of Linear Equations](Chapter01/SystemofLinearEquations.md)
-    4. [Matrix](Chapter01/Matrix.md)
-    5. [Some Special Matrice](Chapter01/SomeSpecialMatrice.md)
+    1. [Linear System](Chapter01/1-LinearSystem.md)
+    2. [Vector](Chapter01/2-Vector.md)
+    3. [System of Linear Equations](Chapter01/3-SystemofLinearEquations.md)
+    4. [Matrix](Chapter01/4-Matrix.md)
+    5. [Some Special Matrice](Chapter01/5-SomeSpecialMatrice.md)
     6. [Matrix-Vector Product](Chapter01/MatrixVectorProduct.md)
+    7. [Solution of System of Linear Equation](Chapter01/7-SolutionofSystemofLinearEquation.md)
 
