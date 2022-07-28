@@ -4,9 +4,9 @@
 
 <img src="review.png" alt="review" style="zoom:80%;" />
 
-给定$\color{blue}A$和$\color{green}\mathbf{b}$，求$\color{red}\mathbf{x}$ 
+给定$\color{blue}A$和$\color{green}{\mathbf{b}}$，求$\color{red}{\mathbf{x}}$ 
 
-## II. Perspective of High School
+## II. The perspective of High School
 
 ### Example
 
@@ -54,7 +54,7 @@ $$
 
 ---
 
-## III. Perspective of Linear Algebra
+## III. The perspective of Linear Algebra
 
 已知有${\color{blue}A}{\color{red}\mathbf{x}} = {\color{green}\mathbf{b}}$，给定${\color{blue}A}:{\color{green}m}\times{\color{red}n}$和${\color{green}\mathbf{b}} \in R^{\color{green}m}$，求${\color{red}\mathbf{x}} \in R^{\color{red}n}$ 
 
