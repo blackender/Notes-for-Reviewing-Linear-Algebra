@@ -59,8 +59,8 @@ $$
 已知有${\color{blue}A}{\color{red}{\mathbf{x}}} = {\color{green}{\mathbf{b}}}$，给定${\color{blue}A}:{\color{green}m}\times{\color{red}n}$和${\color{green}{\mathbf{b}}} \in R^{\color{green}m}$，求${\color{red}{\mathbf{x}}} \in R^{\color{red}n}$ 
 
 1. 判断是否有解：
-   1. 条件1：如果${\color{green}\mathbf{b}}$是${\color{blue}A}$列向量的一个linear combination(线性组合)，则有解，反之无解
-   2. 条件2：如果${\color{green}\mathbf{b}}$在${\color{blue}A}$列向量的span(扩展空间)里，则有解，反之无解
+   1. 条件1：如果${\color{green}{\mathbf{b}}}$是${\color{blue}A}$列向量的一个linear combination(线性组合)，则有解，反之无解
+   2. 条件2：如果${\color{green}{\mathbf{b}}}$在${\color{blue}A}$列向量的span(扩展空间)里，则有解，反之无解
    3. 条件1等价于条件2
 2. 判断是唯一解还是无穷解：
    1. 唯一解的条件：(下面三个条件是等价的)
