@@ -58,4 +58,5 @@ Vector无处不在
     5. [Some Special Matrice](Chapter01/5-SomeSpecialMatrice.md)
     6. [Matrix-Vector Product](Chapter01/6-MatrixVectorProduct.md)
     7. [Solution of System of Linear Equation](Chapter01/7-SolutionofSystemofLinearEquation.md)
+    8. [Linear Combination](Chapter01/8-LinearCombination.md)
 
