@@ -6,20 +6,20 @@
 
 * 给定一组vector $\begin{Bmatrix} \mathbf{u_1}, \mathbf{u_2}, \dots , \mathbf{u_k} \end{Bmatrix}$
 * 如果存在一组scalar $c_1, c_2, \dots, c_k$，使得：$\mathbf{v} = c_1 \mathbf{u_1} + c_2 \mathbf{u_2} + \dots + c_k \mathbf{u_k}$成立
-  * 即$c_1, c_2, \dots, c_k$与$\left \{ \mathbf{u_1}, \mathbf{u_2}, \dots, \mathbf{u_k} \right \}$做weighted sum可以得一个新的vector $\mathbf{v}$
-* 此时称，$\mathbf{v}$是$\left \{ \mathbf{u_1}, \mathbf{u_2}, \dots, \mathbf{u_k} \right \}$的一个linear combination
+  * 即$c_1, c_2, \dots, c_k$与$\begin{Bmatrix} \mathbf{u_1}, \mathbf{u_2}, \dots , \mathbf{u_k} \end{Bmatrix}$做weighted sum可以得一个新的vector $\mathbf{v}$
+* 此时称，$\mathbf{v}$是$\begin{Bmatrix} \mathbf{u_1}, \mathbf{u_2}, \dots , \mathbf{u_k} \end{Bmatrix}$的一个linear combination
   * $c_1, c_2, \dots, c_k$是这个linear combination的coefficients
 
 
 
 ### 1.2 Example
 
-* 给定一组vector：$\left\{ \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix} \right\}$
+* 给定一组vector：$\begin{Bmatrix} \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix} \end{Bmatrix}$
 * 存在一组scalar $-3, 4, 1$，使得：$ -3 {\begin{bmatrix} 1 \\ 1 \end{bmatrix}} + 4 {\begin{bmatrix} 1 \\ 3 \end{bmatrix}} + {\begin{bmatrix} 1 \\ -1 \end{bmatrix}} = \begin{bmatrix} 2 \\ 8 \end{bmatrix}$
 * 此时称，$\begin{bmatrix} 2 \\ 8 \end{bmatrix}$是$\left\{ \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix} \right\}$的一个linear combination
   * $-3, 4, 1$是这个linear combination的coefficients
 
-$\left \{ test \right \}$
+
 
 ## II. Reviewing Column Aspect
 
