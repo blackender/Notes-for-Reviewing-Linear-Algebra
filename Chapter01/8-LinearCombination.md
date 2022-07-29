@@ -54,7 +54,7 @@
 
 * 需要判断$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$是否是$\begin{Bmatrix} \color{blue} {\begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix}} \end{Bmatrix}$的linear combination
 
-* 如图所示，显然$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$不是 $\color{blue}{\begin{Bmatrix} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} \end{Bmatrix}}$的linear combination
+* 如图所示，显然$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$不是 $\begin{Bmatrix} \color{blue}{\begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix}} \end{Bmatrix}$的linear combination
 
   * <img src="e1pl.jpg" alt="example1" style="zoom:70%;" />
   * $\color{blue} {\begin{bmatrix} 3 \\ 2 \end{bmatrix}}$与$\color{blue} {\begin{bmatrix} 6 \\ 4 \end{bmatrix}}$是parallel的
@@ -67,12 +67,12 @@
 
 判断 $\begin{matrix} {\color{Blue}{2}}{\color{Red}{x_1}} + {\color{Blue}{3}}{\color{Red}{x_2}} = {\color{Green}{4}} \\ {\color{Blue}{3}}{\color{Red}{x_1}} + {\color{Blue}{1}}{\color{Red}{x_2}} = {\color{Green}{-1}} \end{matrix}$ 是否有解。
 
-* 根据表达式可得 $\color{blue}A = \begin{bmatrix} 2 & 3 \\ 3 & 1 \end{bmatrix}$， $\color{red}{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$，$\color{green}{\mathbf{b}} = \begin{bmatrix} 4 \\ -1 \end{bmatrix}$
-* 需要判断$\color{green} \begin{bmatrix} 4 \\ -1 \end{bmatrix}$是否是$ \begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix} } \end{Bmatrix}$的linear combination
-* 如图所示，显然$\color{green} \begin{bmatrix} 4 \\ -1 \end{bmatrix}$是 $\begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix} } \end{Bmatrix}$的linear combination
+* 根据表达式可得 $\color{blue}{A = \begin{bmatrix} 2 & 3 \\ 3 & 1 \end{bmatrix}}$， $\color{red}{{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}}$，$\color{green}{{\mathbf{b}} = \begin{bmatrix} 4 \\ -1 \end{bmatrix}}$
+* 需要判断$\color{green} {\begin{bmatrix} 4 \\ -1 \end{bmatrix}}$是否是$ \begin{Bmatrix} \color{blue} {\begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix}} \end{Bmatrix}$的linear combination
+* 如图所示，显然$\color{green} {\begin{bmatrix} 4 \\ -1 \end{bmatrix}}$是 $\begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix} } \end{Bmatrix}$的linear combination
   * <img src="e2np.jpg" alt="example2" style="zoom:70%;" />
-  * $\color{blue} \begin{bmatrix} 2 \\ 3 \end{bmatrix}$与$\color{blue} \begin{bmatrix} 3 \\ 1 \end{bmatrix}$是non-parallel的
-    * 因此 $ \begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix} } \end{Bmatrix}$ 的linear combination可以覆盖整个二维空间 
+  * $\color{blue} {\begin{bmatrix} 2 \\ 3 \end{bmatrix}}$与$\color{blue} {\begin{bmatrix} 3 \\ 1 \end{bmatrix}}$是non-parallel的
+    * 因此 $ \begin{Bmatrix} \color{blue} {\begin{bmatrix} 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 1 \end{bmatrix}} \end{Bmatrix}$ 的linear combination可以覆盖整个二维空间 
   * 所以该表达式有解
 
 
@@ -81,13 +81,13 @@
 
 判断 $\begin{matrix} {\color{Blue}{2}}{\color{Red}{x_1}} + {\color{Blue}{6}}{\color{Red}{x_2}} = {\color{Green}{-4}} \\ {\color{Blue}{1}}{\color{Red}{x_1}} + {\color{Blue}{3}}{\color{Red}{x_2}} = {\color{Green}{-2}} \end{matrix}$ 是否有解。
 
-* 根据表达式可得 $\color{blue}A = \begin{bmatrix} 2 & 6 \\ 1 & 3 \end{bmatrix}$， $\color{red}{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$，$\color{green}{\mathbf{b}} = \begin{bmatrix} -4 \\ -2 \end{bmatrix}$
-* 需要判断$\color{green} \begin{bmatrix} -4 \\ -2 \end{bmatrix}$是否是$ \begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix} } \end{Bmatrix}$的linear combination
-* 如图所示，显然$\color{green} \begin{bmatrix} -4 \\ -2 \end{bmatrix}$是$ \begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix} } \end{Bmatrix}$的linear combination
+* 根据表达式可得 $\color{blue}{A = \begin{bmatrix} 2 & 6 \\ 1 & 3 \end{bmatrix}}$， $\color{red}{{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}}$，$\color{green}{{\mathbf{b}} = \begin{bmatrix} -4 \\ -2 \end{bmatrix}}$
+* 需要判断$\color{green} {\begin{bmatrix} -4 \\ -2 \end{bmatrix}}$是否是$ \begin{Bmatrix} \color{blue} {\begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix}} \end{Bmatrix}$的linear combination
+* 如图所示，显然$\color{green} {\begin{bmatrix} -4 \\ -2 \end{bmatrix}}$是$ \begin{Bmatrix} \color{blue} {\begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix}} \end{Bmatrix}$的linear combination
   * <img src="e3pl.jpg" alt="example3" style="zoom:70%;" />
-  * $\color{blue} \begin{bmatrix} 2 \\ 1 \end{bmatrix}$与$\color{blue} \begin{bmatrix} 6 \\ 3 \end{bmatrix}$是parallel的
-    * 因此 $\begin{Bmatrix} {\color{blue} \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix} } \end{Bmatrix}$ 的linear combination只会出现在蓝色的虚线上
-    * 此时，$\color{green} \begin{bmatrix} -4 \\ -2 \end{bmatrix}$落在了蓝色的虚线上
+  * $\color{blue} {\begin{bmatrix} 2 \\ 1 \end{bmatrix}}$与$\color{blue} {\begin{bmatrix} 6 \\ 3 \end{bmatrix}}$是parallel的
+    * 因此 $\begin{Bmatrix} \color{blue} {\begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ 3 \end{bmatrix}} \end{Bmatrix}$ 的linear combination只会出现在蓝色的虚线上
+    * 此时，$\color{green} {\begin{bmatrix} -4 \\ -2 \end{bmatrix}}$落在了蓝色的虚线上
   * 所以该表达式有解
 
 
