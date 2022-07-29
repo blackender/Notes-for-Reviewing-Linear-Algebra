@@ -52,7 +52,7 @@
 
 * 根据表达式可得 $\color{blue}{A = \begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix}}$， $\color{red}{{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}}$，$\color{green}{{\mathbf{b}} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}}$
 
-* 需要判断$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$是否是$\begin{Bmatrix} {\color{blue} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} } \end{Bmatrix}$的linear combination
+* 需要判断$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$是否是$\begin{Bmatrix} \color{blue} {\begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix}} \end{Bmatrix}$的linear combination
 
 * 如图所示，显然$\color{green} \begin{bmatrix} 3 \\ 4 \end{bmatrix}$不是 $\begin{Bmatrix} {\color{blue} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} } \end{Bmatrix}$的linear combination
 
