@@ -4,7 +4,7 @@
 
 ### 1.1 Definition
 
-* 给定一组vector $\left \{ {\mathbf{u_1}}, {\mathbf{u_2}}, \dots, {\mathbf{u_k}} \right \}$
+* 给定一组vector $\begin{Bmatrix} \mathbf{u_1}, \mathbf{u_2}, \dots , \mathbf{u_k} \end{Bmatrix}$
 * 如果存在一组scalar $c_1, c_2, \dots, c_k$，使得：$\mathbf{v} = c_1 \mathbf{u_1} + c_2 \mathbf{u_2} + \dots + c_k \mathbf{u_k}$成立
   * 即$c_1, c_2, \dots, c_k$与$\left \{ \mathbf{u_1}, \mathbf{u_2}, \dots, \mathbf{u_k} \right \}$做weighted sum可以得一个新的vector $\mathbf{v}$
 * 此时称，$\mathbf{v}$是$\left \{ \mathbf{u_1}, \mathbf{u_2}, \dots, \mathbf{u_k} \right \}$的一个linear combination
