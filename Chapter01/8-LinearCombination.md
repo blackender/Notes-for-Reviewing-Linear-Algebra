@@ -19,7 +19,7 @@
 * 此时称，$\begin{bmatrix} 2 \\ 8 \end{bmatrix}$是$\left\{ \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix} \right\}$的一个linear combination
   * $-3, 4, 1$是这个linear combination的coefficients
 
-
+$\left \{ test \right \}$
 
 ## II. Reviewing Column Aspect
 
