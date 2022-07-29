@@ -50,9 +50,9 @@
 
 判断 $\begin{matrix} {\color{Blue}{3}}{\color{Red}{x_1}} + {\color{Blue}{6}}{\color{Red}{x_2}} = {\color{Green}{3}} \\ {\color{Blue}{2}}{\color{Red}{x_1}} + {\color{Blue}{4}}{\color{Red}{x_2}} = {\color{Green}{4}} \end{matrix}$ 是否有解。
 
-* 根据表达式可得 $\color{blue}A = \begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix}$， $\color{red}{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$，$\color{green}{\mathbf{b}} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+* 根据表达式可得 $\color{blue}{A = \begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix}}$， $\color{red}{{\mathbf{x}} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}}$，$\color{green}{{\mathbf{b}} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}}$
 
-* 需要判断$\color{green} \begin{bmatrix} 3 \\ 4 \end{bmatrix}$是否是$\begin{Bmatrix} {\color{blue} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} } \end{Bmatrix}$的linear combination
+* 需要判断$\color{green} {\begin{bmatrix} 3 \\ 4 \end{bmatrix}}$是否是$\begin{Bmatrix} {\color{blue} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} } \end{Bmatrix}$的linear combination
 
 * 如图所示，显然$\color{green} \begin{bmatrix} 3 \\ 4 \end{bmatrix}$不是 $\begin{Bmatrix} {\color{blue} \begin{bmatrix} 3 \\ 2 \end{bmatrix}, \begin{bmatrix} 6 \\ 4 \end{bmatrix} } \end{Bmatrix}$的linear combination
 
